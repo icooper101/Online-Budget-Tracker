@@ -13,7 +13,7 @@ The user will be able to add expenses and deposits to their budget with or witho
 When brought back online, the offline entries should be added to tracker.
 
 # Deployment
-https://desolate-scrubland-50344.herokuapp.com/
+https://shielded-lake-08976.herokuapp.com
 
 # Technologies Used
 - HTML
